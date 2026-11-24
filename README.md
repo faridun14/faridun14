@@ -1,16 +1,38 @@
-## Hi there 👋
 
-<!--
-**faridun14/faridun14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Faridun 👋
 
-Here are some ideas to get you started:
+### Aspiring Python Backend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm based in Warsaw, Poland.
+
+I'm currently learning Python and Backend Development. My goal is to become a professional Backend Developer and build real-world applications.
+
+### Technologies I'm Learning
+
+- Python
+- SQL
+- Git & GitHub
+- FastAPI
+- PostgreSQL
+- Docker
+
+### My Projects
+
+- EasyPro — Telegram subscription bot (Python, Aiogram, SQLite)
+- Delivery Management System — Web-based delivery management application
+
+### Currently Learning
+
+- Python fundamentals
+- Object-Oriented Programming
+- Backend Development
+- REST APIs
+- Database Management
+
+### My Goals
+
+- Build real-world backend applications
+- Solve programming challenges on LeetCode
+- Contribute to GitHub projects
+- Become a Python Backend Developer
+
